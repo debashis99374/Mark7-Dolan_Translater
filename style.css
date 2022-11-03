@@ -1,0 +1,75 @@
+*{
+    
+    font-family: fantasy;
+    font-weight: 300;
+    margin: auto;
+    
+}
+h1{
+    text-align: center;
+    background-color: blue;
+    padding: 1.5cm;
+    margin-bottom: 1cm;
+    margin-top: 0%;
+    border-radius: 10px;
+    border-style: dashed;
+}
+img{
+    display: block;
+    margin: auto;
+    max-width: 300px;
+    margin-bottom: 1cm;
+    border-radius: 10px;
+    border-style: dashed;
+}
+#txt-area-input{
+    display: block;
+    margin: auto;
+    height: 3cm;
+    width: 7cm;
+    padding: 1px;
+    border: bold black;
+    margin-bottom: 1cm;
+    border-radius: 10px;
+    border-style: dashed;
+}
+button{
+    margin: auto;
+    margin-bottom: .5cm;
+    padding: 10px;
+    background-color: blue;
+    border-radius: 10px;
+    border-style: dashed;
+
+    display: block;
+}
+#div-1-h3{
+    margin: auto;
+    margin-bottom: .75cm;
+    background-color: blue;
+    max-width: 7cm;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: dashed;
+}
+#txt-area-output{
+    display: block;
+    margin: auto;
+    height: 3cm;
+    width: 7cm;
+    padding: 1px;
+    border: bold black;
+    margin-bottom: 1cm;
+    border-radius: 10px;
+    border-style: dashed;
+}
+#div-2{
+    background-color: blue;
+    text-align: center;
+    border-style: dashed;
+    margin-top: 1cm;
+    padding: 25px;
+    border-radius: 10px;
+    
+    margin-top: 1cm;
+}
